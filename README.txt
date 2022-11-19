@@ -15,3 +15,7 @@ cd Ddos-Attacker-for-Windows-x86_64
 start.cmd
 or
 start.exe
+
+Quit
+
+Press control+c to exit

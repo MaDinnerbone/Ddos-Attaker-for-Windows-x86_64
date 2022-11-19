@@ -1,8 +1,7 @@
 # Ddos-Attaker-for-Windows-x86_64
 
 # Ddos-Attacker
-### The smallest code in the world.
-### Only 4MiB!!!
+## The smallest code in the world.
 
 # DDos-Attack 
 ### What Is A DDos-Attack
@@ -22,3 +21,7 @@ from banks to news websites, and present a major challenge to making sure people
 ### or
 
 ### start.exe
+
+## Quit
+
+### Press control+c to exit
