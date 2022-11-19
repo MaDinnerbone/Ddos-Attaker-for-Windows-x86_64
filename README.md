@@ -1,7 +1,8 @@
 # Ddos-Attaker-for-Windows-x86_64
 
 # Ddos-Attacker
-## The smallest code in the world.
+### The smallest code in the world.
+### Only 4MiB!!!
 
 # DDos-Attack 
 ### What Is A DDos-Attack
